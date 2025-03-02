@@ -1,0 +1,41 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.headingg{
+    color: rgb(231, 9, 120);
+    text-align: left;
+   
+}
+.age-calculator{
+    background-color: rgb(231, 212, 231); 
+}
+.age-cal{
+    background-color: rgb(189, 214, 151);
+    padding: 10px;
+    width:50%;
+    box-shadow: 10px 10px 20px rgb(149, 149, 189);
+}
+.labelforinput1,.labelforinput2{
+    margin-right: 20px; 
+    color: rgb(75, 34, 189);
+    font-size: large;
+}
+.labelforinput2{
+    margin-left: 20px;
+}
+input[type="date"]{
+    width: 25%;
+}
+.agedisplay{
+    font-size: x-large;
+    color: blue;
+    font-style: bold;
+    
+}
+.cal-btn{
+    display: flex;
+    justify-content: right;
+}
+
+
